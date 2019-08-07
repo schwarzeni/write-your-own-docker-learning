@@ -12,7 +12,7 @@ import (
 
 // 子进程需要执行的内容
 func RunContainerInitProgress() (err error) {
-	cmdArray := readUserCommand()
+	cmdArray := readUserCommand() // 获取参数
 	if cmdArray == nil || len(cmdArray) == 0 {
 		return fmt.Errorf("Run container get user command error, cmdArray is nil")
 	}
@@ -35,7 +35,7 @@ func RunContainerInitProgress() (err error) {
 		return
 	}
 
-	path, err := exec.LookPath(cmdArray[0])
+	path, err := exec.LookPath(cmdArray[0]) // 寻找命令的绝对路径
 	if err != nil {
 		log.Errorf("Exec loop path error %v", err)
 		return err
@@ -51,6 +51,7 @@ func RunContainerInitProgress() (err error) {
 	return
 }
 
+// 从管道中读取参数
 func readUserCommand() []string {
 	pipe := os.NewFile(uintptr(3), "pipe")
 	if msg, err := ioutil.ReadAll(pipe); err!= nil {

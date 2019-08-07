@@ -4,3 +4,7 @@
 - Ubuntu v16.04
 - Kernel v4.10.0-28-generic
 - Go v1.12.4
+
+---
+
+出现意想不到的错误请先查看书籍Github仓库的[issues](https://github.com/xianlubird/mydocker/issues)

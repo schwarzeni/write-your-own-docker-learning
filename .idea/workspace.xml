@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c1e5262-33df-4b35-bd5e-66d4e4a6f364" name="Default Changelist" comment="" />
+    <list default="true" id="7c1e5262-33df-4b35-bd5e-66d4e4a6f364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/cgroup_manger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/cpu.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/cpuset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/memory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/subsystems.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/container/container_process.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/container/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/main_command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/run.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/cgroup_manger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/subsystems/cpu.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/subsystems/cpuset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/subsystems/memory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/subsystems/subsystems.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/subsystems/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/container/container_process.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/container/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/main_command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/run.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/cgroup_manger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/subsystems/cpu.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/subsystems/cpuset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/subsystems/memory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/subsystems/subsystems.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/subsystems/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/commit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/container/container_process.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/container/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main_command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/run.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/init.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,105 +52,101 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/run.go">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main_command.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/commit.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
-                <element signature="e#14#151#0" expanded="true" />
+                <element signature="e#14#112#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/go.mod">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/container/container_process.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/main_command.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="684">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <element signature="e#14#167#0" expanded="true" />
+                <element signature="e#19#91#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/subsystems.go">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/container/container_process.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/memory.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#20#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpuset.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#20#74#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="335">
+              <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/util.go">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/main_command.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="233">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
-                <element signature="e#20#71#0" expanded="true" />
+                <element signature="e#14#265#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpu.go">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/container/init.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            <state relative-caret-position="594">
+              <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/syscall/zerrors_linux_amd64.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
-                <element signature="e#20#75#0" expanded="true" />
+                <element signature="e#14#89#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/cgroup_manger.go">
+        <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/cgroup_manger.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="e#16#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,21 +162,15 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/UTS_namespace/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/2_1_3_IPC_namespace/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/2_1_4_PID_namespace/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/2_1_5_NS_namespace/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/2_1_6_UID_namespace/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/2_2_1_cgroup_note/note.md" />
-        <option value="$PROJECT_DIR$/cpt2/2_1_7_Network_namespace/main.go" />
-        <option value="$PROJECT_DIR$/cpt2/2_2_cgroup/main.go" />
         <option value="$PROJECT_DIR$/cpt2/2_3_ufs/check_docker_structure.sh" />
         <option value="$PROJECT_DIR$/cpt2/2_3_ufs/mnt/image-layer4.txt" />
         <option value="$PROJECT_DIR$/other/proc-self/main.go" />
@@ -167,6 +198,30 @@
         <option value="$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/util.go" />
         <option value="$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/memory.go" />
         <option value="$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpuset.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/init.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-pivote-root/run.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-pivote-root/main_command.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-pivote-root/cgroup/cgroup_manger.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-pivote-root/container/init.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-pivote-root/container/container_process.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-aufs/cgroup/cgroup_manger.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-aufs/main_command.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-aufs/config.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-aufs/config/config.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-aufs/run.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-aufs/container/container_process.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volumn/main_command.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volumn/run.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volumn/container/container_process.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/main_command.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/container/container_process.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/run.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/container/container_process.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/cgroup_manger.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main_command.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main.go" />
+        <option value="$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/commit.go" />
       </list>
     </option>
   </component>
@@ -174,6 +229,9 @@
     <option name="y" value="-6" />
     <option name="width" value="1440" />
     <option name="height" value="868" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -190,28 +248,38 @@
             <path>
               <item name="write-your-own-docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="write-your-own-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="write-your-own-docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="write-your-own-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3-23-cgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="write-your-own-docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="write-your-own-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3-23-cgroup" type="462c0819:PsiDirectoryNode" />
-              <item name="cgroup" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4-2-3-aufs-volume" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="write-your-own-docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="write-your-own-docker" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3" type="462c0819:PsiDirectoryNode" />
-              <item name="cpt3-23-cgroup" type="462c0819:PsiDirectoryNode" />
-              <item name="cgroup" type="462c0819:PsiDirectoryNode" />
-              <item name="subsystems" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4-2-3-aufs-volume" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="write-your-own-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="write-your-own-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4-2-3-aufs-volume" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="write-your-own-docker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="write-your-own-docker" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4" type="462c0819:PsiDirectoryNode" />
+              <item name="cpt4-4-simple-pack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,15 +290,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cpt3/cpt3-2-cgroup" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cpt4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpt4/cpt4-2-aufs/config" />
+      <recent name="$PROJECT_DIR$/bin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpt4" />
       <recent name="$PROJECT_DIR$/cpt3/cpt3-2-cgroup" />
       <recent name="$PROJECT_DIR$/cpt2" />
     </key>
@@ -274,12 +348,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1440" height="868" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.18680556" />
-      <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.16388889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49568966" visible="true" weight="0.18680556" />
+      <window_info id="Structure" order="1" sideWeight="0.50431037" side_tool="true" visible="true" weight="0.18680556" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32951653" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22335026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -288,7 +363,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49791667" visible="true" weight="0.3616751" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49791667" visible="true" weight="0.40966922" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" weight="0.28299493" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -305,248 +380,6 @@
     <proxy>https://goproxy.io</proxy>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cpt2/2_3_ufs/image-layer4/image-layer4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_3_ufs/image-layer3/image-layer3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_3_ufs/image-layer2/image-layer2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_3_ufs/image-layer1/image-layer1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_3_ufs/container-layer/container-layer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_1_6_UID_namespace/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_1_7_Network_namespace/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/proc-self/main.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_3_ufs/check_docker_structure.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_2_cgroup/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_1_3_IPC_namespace/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_1_4_PID_namespace/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#109#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_1_5_NS_namespace/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt2/2_1_2_UTS_namespace/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/run.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="e#14#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/container/container_process.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="e#19#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/container/init.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="e#19#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-2-cgroup/cgroups/subsystems/cpu.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding>
-            <element signature="e#19#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-2-cgroup/cgroups/subsystems/cpuset.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#20#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-2-cgroup/cgroups/subsystems/memory.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#20#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-2-cgroup/cgroups/subsystems/utils.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#20#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-2-cgroup/cgroups/subsystems/memory_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#20#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-2-cgroup/cgroups/subsystems/subsystem.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/main_command.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#14#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/run.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#14#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/container/container_process.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/cgroups/cgroup_manager.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#17#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/cgroups/subsystems/cpu.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/cgroups/subsystems/cpuset.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/cgroups/subsystems/memory.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/cgroups/subsystems/subsystem.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/cgroups/subsystems/utils.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/container/init.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#14#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/go/pkg/mod/github.com/urfave/cli@v1.19.1/flag_generated.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2358">
@@ -554,40 +387,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/main_command.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/init.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/container_process.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#19#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/run.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="e#14#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-3-official/main_command.go" />
     <entry file="file://$PROJECT_DIR$/go.sum">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -601,50 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/main_command.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="e#14#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/cgroup_manger.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/subsystems.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpuset.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#20#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpu.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
-          <folding>
-            <element signature="e#20#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/memory.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -655,15 +411,362 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/main_command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/os/exec/lp_unix.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/run.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/container/container_process.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#19#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/container/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpu.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="e#20#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/cpuset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="e#20#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/container_process.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#19#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/subsystems.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/cgroup_manger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/cgroup/subsystems/util.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="414">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
           <folding>
             <element signature="e#20#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/run.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-1-run/main_command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt3/cpt3-23-cgroup/container/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <element signature="e#19#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/cpu.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/run.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/main_command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/util.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/subsystems.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/subsystems/memory.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#20#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/cgroup/cgroup_manger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="87" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/subsystems/cpu.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/cgroup/cgroup_manger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#16#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/config/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/run.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/subsystems/cpu.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/run.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/container/container_process.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/container/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#19#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/cgroup/cgroup_manger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#16#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/urfave/cli@v1.19.1/command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/main_command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-4-simple-pack/commit.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/syscall/zerrors_linux_amd64.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/container/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-1-pivote-root/container/container_process.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#19#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/main_command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#14#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpt4/cpt4-2-3-aufs-volume/container/container_process.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
